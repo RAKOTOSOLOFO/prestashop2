@@ -15,4 +15,4 @@
     </ul>
   </div>
 </div>
-<!-- /Block mymodule -->
+<!-- /Block mymodule -->{$my_module_message}
